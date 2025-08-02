@@ -1,4 +1,5 @@
 dependencies:
+  '22': 0.0.0
   '@testing-library/jest-dom': 5.11.9
   '@testing-library/react': 11.2.5_react-dom@17.0.1+react@17.0.1
   '@testing-library/user-event': 12.6.2
@@ -23,6 +24,10 @@ devDependencies:
   react-scripts: 4.0.3_react@17.0.1
 lockfileVersion: 5.2
 packages:
+  /22/0.0.0:
+    dev: false
+    resolution:
+      integrity: sha512-MdBPNDaCFY4fZVpp14n3Mt4isZ2yS1DrIiOig/iMLljr4zDa0g/583xf/lFXNPwhxCfGKYvyWJSrYyS8jNk2mQ==
   /@ampproject/remapping/2.3.0:
     dependencies:
       '@jridgewell/gen-mapping': 0.3.12
@@ -15953,6 +15958,7 @@ packages:
     resolution:
       integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 specifiers:
+  '22': 0.0.0
   '@testing-library/jest-dom': 5.11.9
   '@testing-library/react': 11.2.5
   '@testing-library/user-event': 12.6.2
